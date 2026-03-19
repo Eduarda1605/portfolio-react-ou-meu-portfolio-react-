@@ -1,4 +1,5 @@
-# portfolio-react-ou-meu-portfolio-react-
+# portfolio-react
+
 Portfólio profissional em React — páginas, componentes reutilizáveis, deploy
 {
   "scripts": {
